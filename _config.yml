@@ -21,7 +21,7 @@
 title: Rinaldi Fonseca
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Ruby, Rails, dry-rb e boas práticas
+  Ruby, Rails e boas práticas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rinaldifonseca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rinaldifonseca
