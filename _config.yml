@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rinaldi Fonseca
-email: your-email@example.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Rinaldi Fonseca Web Blog
+  Ruby, Rails, dry-rb e boas práticas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rinaldifonseca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rinaldifonseca
