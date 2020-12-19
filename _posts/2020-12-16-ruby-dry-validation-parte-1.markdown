@@ -2,6 +2,7 @@
 layout: post
 title:  "Ruby - dry-validation parte 1"
 date:   2020-12-18 18:24:22 -0300
+comments: true
 categories: ruby dry-rb dry-validation
 ---
 Você já pensou que a entrada de dados da sua aplicação normalmente não é tão valorizada?
