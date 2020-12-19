@@ -110,5 +110,7 @@ A gem `dry-validation` oferece uma maneira robusta e prática de realizar estas 
 
 No próximo post irei trazer exemplos de como poderemos criar estruturas para validar regras de negócio e outras variações mais avançadas na definição de Schemas.
 
+Qualquer dúvida ou feedback, comente abaixo =)
+
 [dry-validation-link]: https://dry-rb.org/gems/dry-validation/
 [dry-rb-link]: https://dry-rb.org
