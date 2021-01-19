@@ -92,7 +92,7 @@ result = UserSignupContract.new.call(invalid_data)
 Teremos o seguinte result:
 
 {% highlight ruby %}
-<Dry::Validation::Result{:data=>{:username=>"foo", :birthdate=>"2020", :age=>"age", :address=>{:street=>"foo", :number=>"bar"}}} errors={:user=>{:birthdate=>["must be a date"], :age=>["must be an integer"]}}>
+<Dry::Validation::Result{:data=>{:username=>"foo", :birthdate=>"2020", :age=>"age", :address=>{:street=>"foo", :number=>"bar"}}} errors={:data=>{:birthdate=>["must be a date"], :age=>["must be an integer"]}}>
 {% endhighlight %}
 
 Observe que agora temos uma lista de erros com os respectivos problemas de validação.
